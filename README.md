@@ -56,7 +56,7 @@ Análisis del rendimiento de vuelos, puntualidad y rutas más frecuentes.
 
 Descarga o clona el repositorio:
 
-git clone https://github.com/tuusuario/PowerBI-Projects.git
+git clone https://github.com/Ale-pool/POWER-BI-ALL.git
 
 
 Abre los archivos .pbix en Power BI Desktop.
